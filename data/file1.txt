@@ -1,0 +1,4 @@
+[2026-04-02 10:00:01] INFO: Application started
+[2026-04-02 10:01:15] INFO: User login successful
+[2026-04-02 10:02:30] WARNING: High memory usage detected
+[2026-04-02 10:03:45] INFO: Process completed
